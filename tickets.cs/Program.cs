@@ -12,7 +12,7 @@ namespace Ticketing
         static void Main(string[] args)
         {
 
-           file = "ticket.csv";
+           file = "tickets.cs";
             string choice;
             string one = "TicketID,Summary,Status,Priority,Submitter,Assigned,Watching";
             string two = "1,This is a bug ticket,Open,High,Drew Kjell,Jane Doe,Drew Kjell|John Smith|Bill Jones";
